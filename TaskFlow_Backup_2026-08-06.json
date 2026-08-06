@@ -1,0 +1,65 @@
+[
+  {
+    "id": "demo-1",
+    "title": "🚀 Initialize GitHub Repository & Host TaskFlow",
+    "description": "Set up git remote repo, push main branch, and configure GitHub Pages deployment.",
+    "category": "Work",
+    "priority": "high",
+    "dueDate": "2026-08-07T15:53",
+    "completed": false,
+    "pinned": true,
+    "subtasks": [
+      {
+        "id": "sub-1",
+        "title": "Initialize git locally",
+        "completed": true
+      },
+      {
+        "id": "sub-2",
+        "title": "Create repository on GitHub",
+        "completed": false
+      },
+      {
+        "id": "sub-3",
+        "title": "Deploy to GitHub Pages",
+        "completed": false
+      }
+    ],
+    "createdAt": "2026-08-06T15:53:55.044Z"
+  },
+  {
+    "id": "demo-2",
+    "title": "🌱 30-Minute Evening Workout or Walk",
+    "description": "Keep up with weekly health goals.",
+    "category": "Health",
+    "priority": "medium",
+    "dueDate": "",
+    "completed": false,
+    "pinned": false,
+    "subtasks": [],
+    "createdAt": "2026-08-06T14:53:55.044Z"
+  },
+  {
+    "id": "demo-3",
+    "title": "🛒 Weekly Grocery Shopping List",
+    "description": "Fresh fruits, vegetables, almond milk, and coffee beans.",
+    "category": "Shopping",
+    "priority": "low",
+    "dueDate": "",
+    "completed": true,
+    "pinned": false,
+    "subtasks": [
+      {
+        "id": "sub-4",
+        "title": "Buy fresh fruits",
+        "completed": true
+      },
+      {
+        "id": "sub-5",
+        "title": "Buy coffee beans",
+        "completed": true
+      }
+    ],
+    "createdAt": "2026-08-06T13:53:55.044Z"
+  }
+]
